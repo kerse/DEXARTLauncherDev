@@ -1,0 +1,14 @@
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\bin\Debug\DEXARTLauncherDev.exe.config
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\bin\Debug\DEXARTLauncherDev.exe
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\bin\Debug\DEXARTLauncherDev.pdb
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.csproj.AssemblyReference.cache
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\MainWindow.baml
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\MainWindow.g.cs
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\App.g.cs
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev_MarkupCompile.cache
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.g.resources
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.Properties.Resources.resources
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.csproj.GenerateResource.cache
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.csproj.CoreCompileInputs.cache
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.exe
+C:\Works\software\DEXARTLauncherDev\DEXARTLauncherDev\obj\Debug\DEXARTLauncherDev.pdb
