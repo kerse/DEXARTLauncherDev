@@ -27,10 +27,10 @@ namespace WpfApp
 
         private void CloseButton_MouseEnter(object sender, MouseEventArgs e)
         {
-            closeButton.Opacity = 0.6;
+            closeButton.Opacity = 0.4;
         }
 
-        private void CloseButton_MouseLeave(object sender, MouseEventArgs e)
+        private void CloseButton_MouseLeave(object sender, MouseEventArgs e) 
         {
             closeButton.Opacity = 1.0;
         }
